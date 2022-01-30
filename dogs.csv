@@ -1,0 +1,5 @@
+id,name,gender,date_in_shelter,is_adopted,date_adopted,parents,id
+1,sunshine,female,1/1/2022,TRUE,1/15/2022,,
+2,brownie,male,1/24/2021,FALSE,,,
+3,tigreal,male,1/25/2021,FALSE,,,
+4,Jam,male,1/25/2021,FALSE,,,
